@@ -1,0 +1,23 @@
+{
+  "name": "conversor",
+  "version": "1.0.0",
+  "description": "Conversor de nomes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcioUfs/conversor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcioUfs/conversor/issues"
+  },
+  "homepage": "https://github.com/MarcioUfs/conversor#readme",
+  "dependencies": {
+    "neat-csv": "^7.0.0"
+  }
+}
